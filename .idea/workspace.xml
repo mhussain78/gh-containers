@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8acf891-05a0-44d8-97b1-d49fed1feaa7" name="Changes" comment="fixed reference" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../tools/apache-maven-3.9.4" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2crznZOe8qh52M5igdHWhkZ81Ej" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mohamad/dev/projects/learning/github-actions/udemy-course/01 Starting Project",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.github/workflows" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-249ae16d76d6-af57353a" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8acf891-05a0-44d8-97b1-d49fed1feaa7" name="Changes" comment="" />
+      <created>1693948180480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693948180480</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fixed condition">
+      <option name="closed" value="true" />
+      <created>1708966033932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708966033932</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added conditional job">
+      <option name="closed" value="true" />
+      <created>1709051828742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709051828742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added needs">
+      <option name="closed" value="true" />
+      <created>1709051955085</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709051955085</updated>
+    </task>
+    <task id="LOCAL-00004" summary="optimised cache">
+      <option name="closed" value="true" />
+      <created>1709329521591</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709329521591</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed test">
+      <option name="closed" value="true" />
+      <created>1709329789404</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709329789404</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed node package">
+      <option name="closed" value="true" />
+      <created>1709330049008</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709330049008</updated>
+    </task>
+    <task id="LOCAL-00007" summary="broken test to get the report created and sent">
+      <option name="closed" value="true" />
+      <created>1709330164807</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709330164807</updated>
+    </task>
+    <task id="LOCAL-00008" summary="broken test, added continue on error field">
+      <option name="closed" value="true" />
+      <created>1709330558894</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709330558894</updated>
+    </task>
+    <task id="LOCAL-00009" summary="renamed workflow">
+      <option name="closed" value="true" />
+      <created>1709330585274</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709330585274</updated>
+    </task>
+    <task id="LOCAL-00010" summary="removed if">
+      <option name="closed" value="true" />
+      <created>1709330734055</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709330734055</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added continue on error to test">
+      <option name="closed" value="true" />
+      <created>1709330923277</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709330923277</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added matrix.yaml">
+      <option name="closed" value="true" />
+      <created>1709331491503</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709331491503</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added continue on error to job level">
+      <option name="closed" value="true" />
+      <created>1709331566263</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709331566263</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added include and exclude">
+      <option name="closed" value="true" />
+      <created>1709331828869</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709331828869</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added reusable workflow">
+      <option name="closed" value="true" />
+      <created>1709332391302</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709332391302</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixed test">
+      <option name="closed" value="true" />
+      <created>1709332491755</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709332491755</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added artifactname parameter">
+      <option name="closed" value="true" />
+      <created>1709333238936</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709333238936</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added required parameter">
+      <option name="closed" value="true" />
+      <created>1709333329461</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709333329461</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fixed artifact name">
+      <option name="closed" value="true" />
+      <created>1709333488382</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709333488382</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fixed artifact name">
+      <option name="closed" value="true" />
+      <created>1709333629409</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1709333629409</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fixed type">
+      <option name="closed" value="true" />
+      <created>1709333723343</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1709333723343</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fixed type">
+      <option name="closed" value="true" />
+      <created>1709333783082</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1709333783082</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fixed type">
+      <option name="closed" value="true" />
+      <created>1709333823464</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1709333823464</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fixed parameter">
+      <option name="closed" value="true" />
+      <created>1709333981551</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1709333981551</updated>
+    </task>
+    <task id="LOCAL-00025" summary="changed dowload action version">
+      <option name="closed" value="true" />
+      <created>1709334208448</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1709334208448</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added output and printing it">
+      <option name="closed" value="true" />
+      <created>1709335013050</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1709335013050</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fixed reference">
+      <option name="closed" value="true" />
+      <created>1709335329835</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1709335329835</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="4504e2cd-1f8c-4d1a-b24e-b580c44099ae" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="4504e2cd-1f8c-4d1a-b24e-b580c44099ae">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed condition" />
+    <MESSAGE value="added conditional job" />
+    <MESSAGE value="added needs" />
+    <MESSAGE value="optimised cache" />
+    <MESSAGE value="fixed node package" />
+    <MESSAGE value="broken test to get the report created and sent" />
+    <MESSAGE value="broken test, added continue on error field" />
+    <MESSAGE value="renamed workflow" />
+    <MESSAGE value="removed if" />
+    <MESSAGE value="added continue on error to test" />
+    <MESSAGE value="added matrix.yaml" />
+    <MESSAGE value="added continue on error to job level" />
+    <MESSAGE value="added include and exclude" />
+    <MESSAGE value="added reusable workflow" />
+    <MESSAGE value="fixed test" />
+    <MESSAGE value="added artifactname parameter" />
+    <MESSAGE value="added required parameter" />
+    <MESSAGE value="fixed artifact name" />
+    <MESSAGE value="fixed type" />
+    <MESSAGE value="fixed parameter" />
+    <MESSAGE value="changed dowload action version" />
+    <MESSAGE value="added output and printing it" />
+    <MESSAGE value="fixed reference" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed reference" />
+  </component>
+</project>
